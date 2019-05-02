@@ -12,3 +12,8 @@ namespace :greeting do
 
 end
 
+namespace :db do
+  
+  desc "migrates"
+  
+end
