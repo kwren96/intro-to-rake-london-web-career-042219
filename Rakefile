@@ -12,6 +12,10 @@ namespace :greeting do
 
 end
 
+task :console
+
+end
+
 task :environment do
   require_relative './config/environment'
 end
